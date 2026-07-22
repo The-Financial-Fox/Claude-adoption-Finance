@@ -1,0 +1,47 @@
+Do you want your Finance and FP&A team to adopt Claude?
+
+Below is my 6-week plan. Comment "I want to adopt Claude for my finance team" and I can send you the Excel version!
+
+When to use it? 
+
+Imagine that your CFO just approved 200 Claude licenses.
+
+You finally convince them that Claude has great potential for finance teams and that's great! But now how do you make sure your team actually knows what to do with it, what not to do, and what works?
+
+One of the biggest levers: Claude Accelerators (this concept also work with other AIs like Copilot, ChatGPT or Gemini).
+
+What I mean by this is to choose the 5-10 people on your team who already know what works, how, and where other tools are still needed (HTML, Python, Data Connectors, Cowork, Agents...). 
+
+They become your internal champions, the ones everyone else copies and the ones that can train your other teams!
+
+I call them accelerators because they are the people that have the knowledge that we teach in the AI Finance Accelerator program that I run with Nicolas Boucher. 
+
+If you don't think you have these accelerators in your company, let me know and I'll send you the details of the course.
+
+But if you already have them, then here's the plan you can adapt for your own company:
+
+Week 0: Foundation Appoint an AI Finance Champion, recruit 5-10 Accelerators, procure Claude Enterprise. Bonus: get IT connecting Claude to your ERP or data warehouse early, it pays off from Week 4 on.
+
+Week 1: Discovery Explore the Web App, Artifacts, Data Visualization, Connectors & Skills in a low-stakes way. Map where Claude is most powerful for your specific workflows.
+
+Week 2: Build Ship one working MVP end-to-end: automated variance analysis + monthly review slides. Doesn't need to be perfect. Needs to run.
+
+Week 3:  Refine Polish that MVP to board-ready quality, document it so anyone can run it, and save the prompts as reusable Claude Skills.
+
+Week 4:  Scale Up Build a full driver-based forecasting workflow: base / upside / downside scenarios, automated narrative, live data if the connector's ready.
+
+Week 5:  Expand Automate three more core tasks: board pack, cash flow commentary, spend analysis. Add each to the Skills library.
+
+Week 6: Culmination Reflect, quantify the wins, build your budgeting-season and year-end-close AI plans, and draft a 12-month roadmap tied to Q1–Q4.
+
+Why does it work?
+
+It's sequenced, not scattered. Each week compounds the last instead of throwing every feature at the team at once.
+
+It follows the Pareto Principle. You chase the 20% of use cases that drive 80% of the value (variance analysis, forecasting, board packs ) not every possible prompt.
+
+I have a full set of materials that you can use for every week!
+
+Let me know in the comments or DM me if you're interested and I'll send it over.
+
+Follow me for more tips like this on AI for Finance and FP&A.
